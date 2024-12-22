@@ -1,0 +1,2 @@
+# betta-academy
+EDUCATIONAL PROJECT
