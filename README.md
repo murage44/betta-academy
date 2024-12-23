@@ -1,2 +1,2 @@
 # betta-academy
-EDUCATIONAL PROJECT
+Your Pathway to Financial Education and Music Mastery
